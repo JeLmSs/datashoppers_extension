@@ -1,0 +1,35 @@
+{
+  "BMW": {
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "precio": "22000",
+    "tiempo_venta": "45",
+    "demanda": "alta",
+    "kilometraje_promedio": "80000",
+    "num_propietarios_promedio": "2",
+    "valoracion_media_usuarios": "4.5",
+    "fiabilidad": "buena"
+  },
+  "Ford": {
+    "marca": "Ford",
+    "modelo": "Focus",
+    "precio": "13000",
+    "tiempo_venta": "60",
+    "demanda": "media",
+    "kilometraje_promedio": "65000",
+    "num_propietarios_promedio": "1.5",
+    "valoracion_media_usuarios": "3.8",
+    "fiabilidad": "regular"
+  },
+  "Volkswagen": {
+    "marca": "Volkswagen",
+    "modelo": "Golf",
+    "precio": "18000",
+    "tiempo_venta": "30",
+    "demanda": "alta",
+    "kilometraje_promedio": "70000",
+    "num_propietarios_promedio": "1.8",
+    "valoracion_media_usuarios": "4.2",
+    "fiabilidad": "buena"
+  }
+}
